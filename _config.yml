@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianyuan Zhang"
-description              : "I am a PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA)."
-repository               : "tianyuan2001/tianyuan2001.github.io"
+title                    : "Yisong Xiao"
+description              : "I am a fourth-year PhD student at State Key Laboratory of Software Development Environment at the Beihang University(BUAA)."
+repository               : "xiaoyisong/xiaoyisong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianyuan Zhang"
-  avatar           : "images/zty_new.jpg"
+  name             : "Yisong Xiao"
+  avatar           : "images/yisong.jpg"
   bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=w0mmwl4AAAAJ"
-  email            : "zhangtianyuan@buaa.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=xsj1IKsAAAAJ&hl=en"
+  email            : "xiaoyisong@buaa.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/145/6286-4.html"
-  orcid            : "https://orcid.org/0000-0001-9874-6828"
+  dblp             : "https://dblp.org/pid/305/3277.html"
+  orcid            : "https://orcid.org/0000-0001-8227-0052"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
